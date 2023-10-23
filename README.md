@@ -1,4 +1,4 @@
-# area_of_sphere
+# volume_of_sphere
 A quick entry level python project to solidify learning.
 
 Takes a user integer input and outputs the calculated sphere volume using input value.
